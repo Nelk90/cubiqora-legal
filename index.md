@@ -1,8 +1,6 @@
 ---
-title: "Privacy Policy - Cubiqora: Block Puzzle"
+title: "Privacy Policy"
 ---
-
-# Privacy Policy - Cubiqora: Block Puzzle
 
 **Effective date:** October 23, 2026
 
