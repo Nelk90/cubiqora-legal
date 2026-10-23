@@ -1,5 +1,5 @@
 ---
-title: Privacy Policy - Cubiqora: Block Puzzle
+title: "Privacy Policy - Cubiqora: Block Puzzle"
 ---
 
 # Privacy Policy - Cubiqora: Block Puzzle
