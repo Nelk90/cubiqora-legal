@@ -2,7 +2,7 @@
 title: "Privacy Policy"
 ---
 
-**Effective date:** October 23, 2026
+**Effective date:** November 1, 2026
 
 Cubiqora is a small puzzle game made by one independent hobbyist developer. There is no
 company, no team, and no server behind it. This page explains what data the app handles,
@@ -46,8 +46,9 @@ No camera, microphone, location, contacts, phone, or storage permissions are req
 
 The app uses the Google Mobile Ads SDK to display:
 
-- **Interstitial ads** — shown between completed runs (never during a run), and
-- **Rewarded ads** — optionally watched for a one-time "second chance" continue.
+- **Banner ads** — displayed on selected menus and game-over screens.
+- **Interstitial ads** — displayed at selected breaks between runs or Adventure floors.
+- **Rewarded ads** — optionally watched for a continue or an extra Adventure reroll.
 
 When ads are shown, Google AdMob may collect and process:
 
