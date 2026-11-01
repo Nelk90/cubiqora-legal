@@ -72,7 +72,7 @@ Options**, which appears when Google requires it.
 
 The app is a general-audience puzzle game and is not directed at children under 13. It
 has no accounts and no community features. If you believe a child's data has been
-processed through an ad, contact me at `Kenzory-studio@gmail.com` and I will help you
+processed through an ad, contact me at `Kenzory.studio@gmail.com` and I will help you
 raise it with Google.
 
 ## Changes to this policy
@@ -82,5 +82,5 @@ date.
 
 ## Contact
 
-Questions about this policy: `Kenzory-studio@gmail.com`. This is a personal project, so
+Questions about this policy: `Kenzory.studio@gmail.com`. This is a personal project, so
 replies may take a few days.
